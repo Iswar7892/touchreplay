@@ -1,4 +1,4 @@
-# touchreplay
+# Touch Replay for Android 
 Android ADB script to replay touch input. Can be used for testing as well as for remote assistance. 
 
 Steps to run: 
